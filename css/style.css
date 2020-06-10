@@ -35,3 +35,9 @@ body{
   background-color:#FDC13C;
   font-family: sans-serif;
 }
+.tab-content{
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px #ddd;
+  padding: 10px;
+}

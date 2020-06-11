@@ -32,7 +32,7 @@ body{
   background-color: #512DA8;
 }
 .card-header{
-  background-color:#FDC13C;
+  background-color:rgb(241, 207, 13);
   font-family: sans-serif;
 }
 .tab-content{
@@ -40,4 +40,17 @@ body{
   border-right: 1px solid #ddd;
   border-bottom: 1px #ddd;
   padding: 10px;
+}
+.carousel{
+  background: #2A1B27;
+}
+.carousel-item{
+  height: 300px;
+}
+.carousel-item img{
+  position: absolute;
+  top:0;
+  left: 0;
+  min-height: 300px;
+  border: #9575CD solid 2px;  
 }

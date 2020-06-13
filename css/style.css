@@ -54,3 +54,8 @@ body{
   min-height: 300px;
   border: #9575CD solid 2px;  
 }
+#carouselButton{
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+}
